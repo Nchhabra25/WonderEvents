@@ -1,4 +1,4 @@
-# Wonder Events <br>
+# Wonder Events 
 Check out the live version [Here](//calm-figolla-49c271.netlify.app). <br>
 ## Here's a screenshot of the project if ur just here for a quick sneak peak ✨ <br>
 ![Check this out😎!](https://github.com/Nchhabra25/WonderEvents/assets/124149051/cb8e6c23-a89e-453e-91bd-f3d627267414) 
